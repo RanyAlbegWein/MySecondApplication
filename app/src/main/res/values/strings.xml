@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySecondApplication</string>
+    <string name="hint_name_field">Enter your name here…</string>
+    <string name="btn_add">Add</string>
+</resources>
